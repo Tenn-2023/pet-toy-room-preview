@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "name": "飞虫羽毛逗猫棒",
+      "prompt": "Use case: precise-object-edit. Edit the supplied transparent watercolor telescopic cat teaser wand. User-requested change: make the BROWN CORD between the rod tip and the insect lure noticeably longer, about 50–60 percent more cord length. Show a relaxed, elegant loose S-curve / hanging loop with a clear longer span separating the rod tip from the lure. This must visibly read as a longer flexible cord, not a longer rod. Keep the telescopic rod PERFECTLY STRAIGHT with its same three nested bronze-brown sections, sleeve rings and plum grip. Preserve the small insect's natural chestnut/umber body and gray-beige moth-like wings, natural antennae, and the existing two long narrow purple/brown feathers with lavender tip. Preserve all object proportions, materials, color and watercolor grain. You may slightly reposition the hanging insect-and-feather cluster lower/right and arrange the longer slack cord across the open upper-center space to fit, but do not change the insect or feather shapes, and do not make them tiny. The added cord should be clear and readable at icon size, with no tangle, excessive coils or knots. Keep the entire one toy centered in a square frame with clear margins and no cropping, especially feather tips and the handle. Real transparent alpha; no background, floor, cast shadow, text, logo or watermark. Only lengthen and naturally drape the cord; retain the approved straight rod and naturally colored insect.",
+      "source": "artwork/new-toys/insect-feather-wand-long-cord.png",
+      "asset": "public/assets/insect-feather-wand-long-cord.png",
+      "audience": "cat",
+      "unlock": 42,
+      "levels": [
+        42,
+        48,
+        54
+      ]
+    },
+    {
+      "name": "布艺骨头玩具",
+      "prompt": "Use case: stylized-concept. Asset type: one ORIGINAL transparent game sprite of a SOFT FABRIC BONE DOG TOY for a cozy hand-painted pet-toy sorting game. A classic gently curved bone silhouette with two rounded lobes at each end and a narrow padded middle, shown diagonally from lower-left to upper-right in a slight three-quarter view. It must clearly read as a BONE at 32–72 px, not a real animal bone or a rubber chew. Original fabric design: creamy ivory fine corduroy / woven-cotton main panels, a warm caramel-brown cloth gusset / stitched edge that shows the stuffed thickness, and a small muted sage-green patchwork panel wrapped around one side of the narrow middle. One tiny simple hand-embroidered cocoa-brown paw motif on the cream middle. Visible but delicate seams with cream stitching, softly stuffed rounded ends, subtle wrinkles, tactile woven grain. A little asymmetry in the sewn lobes makes it charming and handmade; no excessive decorations or dangling attachments. Distinct from a smooth orange rubber bone. Harmonious cream, caramel and soft sage palette, warm watercolor/gouache rendering with fine hand-painted paper texture, soft volume and natural highlights. Cute, believable cloth construction, no face, no printed lettering or brand. One whole toy only, compact centered square framing with 7–9% clear margin all around. Genuinely transparent alpha, no background, floor or cast shadow; no pet, people, packaging, extra object, text, logo or watermark.",
+      "source": "artwork/new-toys/cloth-bone-toy.png",
+      "asset": "public/assets/cloth-bone-toy.png",
+      "audience": "dog",
+      "unlock": 46,
+      "levels": [
+        46,
+        49,
+        59
+      ]
+    },
+    {
+      "name": "烘焙店立体闻嗅垫",
+      "prompt": "Use case: stylized-concept. Asset type: one ORIGINAL transparent game sprite of a THREE-DIMENSIONAL DOG SNUFFLE MAT with a cozy BAKERY SHOP theme. It is a tactile FABRIC PET TOY for hiding treats, not real edible food or a real miniature shop. Show a compact rounded rectangular padded mat in an isometric three-quarter view, with visible soft thickness, a cream woven base and caramel stitched edging. A soft muted sage-and-cream striped fabric flap at the rear edge suggests a bakery awning. On the mat place exactly THREE chunky sewn fabric bakery features: (1) one golden-brown plush croissant formed from layered folded felt loops with clearly visible hideaway gaps, (2) one cinnamon-roll shaped spiral of cream/caramel cloth with a deep treat-hiding groove, (3) one small padded baguette pocket with three soft scoring flaps that can lift. Along the front of the mat include a short row of broad cream and warm wheat-colored felt ruffles / folded fabric tabs for sniffing, with openings beneath. Everything is integrated and securely sewn onto the SAME single mat. Strong readable silhouette and clear 3D raised structures; use broad simple shapes that remain clear as a 32–72 pixel game icon, no tiny toppings or clutter. Original handmade pet-toy design. Warm cream, wheat beige, caramel, cinnamon brown and soft sage accents, no fluorescent colors. Match a cozy watercolor/gouache illustrated toy game: softly shaded volume, tactile fabric grain, stitched seams and gentle natural edges. The bread pieces must visibly be fabric, with seams and felt textures, NOT glossy food. No actual treats shown, no dog, people, table, loose accessories or detached toys. One isolated whole mat centered in square composition with 8% clear margin, genuinely transparent background/alpha, no floor or cast shadow, no printed words, labels, logo or watermark.",
+      "source": "artwork/new-toys/bakery-snuffle-mat.png",
+      "asset": "public/assets/bakery-snuffle-mat.png",
+      "audience": "dog",
+      "unlock": 50,
+      "levels": [
+        50,
+        53,
+        56,
+        58
+      ]
+    }
+  ],
+  "size": [
+    384,
+    384
+  ],
+  "sharedBy": "Same catalog images for gallery, board, supply, task cards and WeChat subpackages",
+  "normalLevelPolicy": "Only a subset of toys in each level; keep increasing difficulty via goals, mixed boxes and obstacles, not by forcing all toys into one level."
+}

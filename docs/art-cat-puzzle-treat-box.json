@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "generate",
+  "name": "猫咪益智藏食盒",
+  "prompt": "Use case: stylized-concept. Asset type: one ORIGINAL transparent game sprite of an ADVANCED CAT PUZZLE TREAT BOX, a physical enrichment toy with several sequential hidden-food mechanisms. A compact low rounded hexagonal / softly rectangular birch-wood box shown in an isometric three-quarter view, warm ivory natural wood body and visible gentle wood grain, soft muted teal and dusty lavender controls. Original multi-step layout: on the raised top there is one large lavender rotating disk with an off-center small opening and a simple paw-shaped turning tab; beside it two staggered teal sliding lids run in short wooden channels and cover recessed treat chambers; the front side has one shallow closed pull drawer with a small cream cat-ear-shaped tab, suggesting a final hidden compartment. The mechanisms should look physically plausible and integrated into ONE solid box, with layered paths and covered cavities that communicate an advanced puzzle. Use only 3–4 large clear mechanisms, no clutter of tiny knobs. An opening can reveal an empty dark recess, but no actual food/treats, no letters, numbers or printed instructions. No cat face on the box. Rounded friendly edges, subtle seams/joints, tangible wood and matte painted surfaces. Cute thoughtful original pet-product design, not a real brand or an existing product copy. Match a cozy watercolor/gouache pet-toy game: softly shaded three-dimensional volume, fine hand-painted paper texture, warm natural highlights, delicate outlines. Must remain readable at 32–72 pixel game icon size. One whole isolated toy only, centered square composition with 8–10% clear margin. Genuine transparent background and alpha, no floor or cast shadow, no cat, people, packaging, extra objects, text, logo or watermark.",
+  "source": "artwork/new-toys/cat-puzzle-treat-box.png",
+  "asset": "public/assets/cat-puzzle-treat-box.png",
+  "size": [
+    384,
+    384
+  ],
+  "audience": "cat",
+  "unlock": 55
+}
