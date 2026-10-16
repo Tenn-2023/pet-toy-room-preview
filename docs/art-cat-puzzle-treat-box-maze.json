@@ -1,0 +1,22 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "edit",
+  "name": "猫咪益智藏食盒",
+  "prompt": "Use case: precise-object-edit. Asset type: one transparent hand-painted game sprite, the revised ORIGINAL CAT PUZZLE TREAT BOX. Input image is the edit target. Make its wooden body substantially LOWER, about half the existing side-wall height, turning it into a slim low-profile enrichment board. Completely REMOVE the front drawer, its purple drawer face, cat-ear handle, drawer seams, and all drawer mechanisms. Replace the entire front with a continuous clean shallow birch-wood rim. Add a clearly readable OPEN-TOP FORAGING MAZE on the top: a broad gently winding recessed food channel with 3–4 smoothly rounded wooden divider walls and small recessed treat pockets, so a cat could reach in with a paw and guide food around the obstacles. Include two small muted teal sliding gate pieces spanning short sections of the maze, physically plausible, and retain a SMALLER dusty-lavender rotating disc with its simple paw turning tab and offset opening on one side. Allocate roughly half to two thirds of the usable top to the maze; keep the design simple and bold enough to read at 32–72 pixel game-icon size. Make the channels wide and accessible for a cat paw, no tall walls, no tiny clutter or crowded labyrinth. A couple of tiny warm brown kibble pieces inside the recessed pockets may subtly communicate foraging, integrated in the same single object, no detached accessories. Preserve the existing warm pale birch material and fine grain, soft lavender/teal palette, softly rounded friendly outline, isometric three-quarter camera, watercolor/gouache grain and delicate hand-painted highlights. The overall footprint should stay a compact softly rectangular rounded board; only lower the height and revise the top activities as specified. One complete toy, clear margins all around, not cropped, real transparent alpha background. No drawer, no front handle, no cat, no people, no text, logo, watermark, floor or cast shadow. Preserve transparency.",
+  "editTarget": "artwork/new-toys/cat-puzzle-treat-box.png",
+  "source": "artwork/new-toys/cat-puzzle-treat-box-maze.png",
+  "asset": "public/assets/cat-puzzle-treat-box-maze.png",
+  "size": [
+    384,
+    384
+  ],
+  "audience": "cat",
+  "unlock": 55,
+  "changes": [
+    "lower body",
+    "drawer removed",
+    "open top foraging maze",
+    "sliding gates",
+    "treat pockets"
+  ]
+}
